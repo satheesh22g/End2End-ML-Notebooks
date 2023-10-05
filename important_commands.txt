@@ -1,0 +1,6 @@
+
+# merge two jupyter notebooks
+pip install nbmerge 
+nbmerge DataPreprocessing-Normalization.ipynb DataPreprocessing-Normalization-with-scikit-learn.ipynb -o merged.ipynb
+
+https://medium.com/@ndleah/eda-data-preprocessing-feature-engineering-we-are-different-d2a5fa09f527
